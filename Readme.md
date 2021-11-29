@@ -1,6 +1,6 @@
 ### What is it?
 
-It's a node express server and Chrome extention bunble that show your internet reminded quota over the chrome extension as couter badge.
+It's a node express server and Chrome extention bunble that show your internet reminded quota over the chrome extension as counter badge.
 
 ### How to use it
 
